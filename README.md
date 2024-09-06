@@ -2,6 +2,8 @@
  Free App to watch Anime
 
  Latest version [Download](https://github.com/Masquerade555/Frofter-Anime-App/releases)
+
+ Note: The following images are from some previous versions (Too lazy to upload new images (:  )
  
 Main:
 

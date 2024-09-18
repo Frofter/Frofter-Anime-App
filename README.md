@@ -1,7 +1,9 @@
 # Frofter Anime App
  Free App to watch Anime
 
- Latest version [Download](https://github.com/Masquerade555/Frofter-Anime-App/releases)
+ Latest version [Download](https://github.com/Frofter/Frofter-Anime-App/releases)
+
+ Also check our Asian Drama/Movies App: [Frofter Asian](https://github.com/Frofter/Frofter-Asian-App)
 
  Note: The following images are from some previous versions (Too lazy to upload new images (:  )
  
